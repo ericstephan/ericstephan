@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi there data modelers, knowledge graph designers, and information architects 👋
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="images/winter2.jpg" width="128">
   <img alt="Shows a frost covered sugar pine limb in winter." src="images/winter2.jpg">
 </picture>
 
-- 🔭 I’m currently working on ...
-- 
+- 🔭 I’m currently working on use of public vocabularies for data publication
 <!--
 **ericstephan/ericstephan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
