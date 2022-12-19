@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://ericstephan/ericstephan/images/winter2.jpg">
+</picture>
+
 <!--
 **ericstephan/ericstephan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
