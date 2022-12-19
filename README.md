@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ericstephan/ericstephan/images/winter2.jpg">
-  <img alt="Shows a frost covered sugar pine limb in winter." src="https://github.com/ericstephan/ericstephan/images/winter2.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="images/winter2.jpg" width="128">
+  <img alt="Shows a frost covered sugar pine limb in winter." src="images/winter2.jpg">
 </picture>
 
+- 🔭 I’m currently working on ...
+- 
 <!--
 **ericstephan/ericstephan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
