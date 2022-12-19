@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset=""https://ericstephan/ericstephan/images/winter2.jpg">
-  <img alt="Shows a frost covered sugar pine limb in winter." src="https://ericstephan/ericstephan/images/winter2.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ericstephan/ericstephan/images/winter2.jpg">
+  <img alt="Shows a frost covered sugar pine limb in winter." src="https://github.com/ericstephan/ericstephan/images/winter2.jpg">
 </picture>
 
 <!--
